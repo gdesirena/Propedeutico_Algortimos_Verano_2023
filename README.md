@@ -1,4 +1,4 @@
-# Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos 2022
+# Propedeutico de implementación de algoritmos para la Maestría en Ciencia de Datos Verano 2023
 
 # ¡HOLA A TODOS!
 
